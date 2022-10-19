@@ -2356,7 +2356,7 @@
 			.box .image.featured:last-child {
 				border-radius: 0 0 6px 6px;
 				margin-bottom: -3em;
-				margin-top: 3em;
+				margin-top: 0em;
 			}
 
 				.box .image.featured:last-child img {
@@ -2931,7 +2931,7 @@
 	}
 
 	#header {
-		background: #444;
+		background: #1c2e60;
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
@@ -3303,7 +3303,7 @@
 /* CTA */
 
 	#cta {
-		background: #e89980;
+		background: #1c2e60;
 		color: #f9e6df;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
@@ -3325,7 +3325,7 @@
 		#cta .button {
 			box-shadow: none;
 			background: #fff;
-			color: #e89980;
+			color: #1c2e60;
 		}
 
 		#cta input[type="text"],
